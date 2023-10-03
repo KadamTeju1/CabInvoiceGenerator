@@ -1,3 +1,5 @@
+package com.cabgenerator;
+
 public class CabGenrator {
    public final double costperkm=10.0;
     double costpermin=1.0;
